@@ -49,7 +49,9 @@ The test only checks shell syntax and safe failure when the required target is a
 
 ## Disclosure
 
-The linked guide contains affiliate links. If you create a qualifying DigitalOcean account through one, the site owner may earn a commission at no additional cost to you.
+This README includes a DigitalOcean affiliate link. If you use it, I may earn a commission at no additional cost to you.
+
+[Create a private OpenClaw Droplet on DigitalOcean](https://www.awin1.com/cread.php?s=4757508&v=123996&q=601070&r=3054551)
 
 ## License
 
