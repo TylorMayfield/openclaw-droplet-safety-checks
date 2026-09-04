@@ -6,7 +6,7 @@ This repository does not install OpenClaw, change its execution policy, open fir
 
 ## Read the guide
 
-[Securely run OpenClaw as a private, always-on AI assistant](https://www.tylor.nz/content/run-openclaw-private-always-on-ai-assistant)
+[Securely run OpenClaw as a private, always-on AI assistant](https://www.tylor.nz/content/run-openclaw-private-always-on-ai-assistant?utm_source=github&utm_medium=referral&utm_campaign=digitalocean-guides&utm_content=companion-readme)
 
 ## Before you run it
 
@@ -51,7 +51,7 @@ The test only checks shell syntax and safe failure when the required target is a
 
 This README includes a DigitalOcean affiliate link. If you use it, I may earn a commission at no additional cost to you.
 
-[Create a private OpenClaw Droplet on DigitalOcean](https://www.awin1.com/cread.php?s=4757508&v=123996&q=601070&r=3054551)
+[Create a private OpenClaw Droplet on DigitalOcean](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=run-openclaw-private-always-on-ai-assistant&product=droplets&placement=companion-readme&variant=readme-primary&locale=en)
 
 ## License
 
