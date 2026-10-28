@@ -51,7 +51,7 @@ The test only checks shell syntax and safe failure when the required target is a
 
 This README includes a DigitalOcean affiliate link. If you use it, I may earn a commission at no additional cost to you.
 
-[Create a private OpenClaw Droplet on DigitalOcean](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=run-openclaw-private-always-on-ai-assistant&product=droplets&placement=companion-readme&variant=readme-primary&locale=en)
+[Review Droplet plans before the OpenClaw Marketplace setup](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=run-openclaw-private-always-on-ai-assistant&product=droplets&placement=companion-readme&variant=readme-primary&locale=en)
 
 ## License
 
